@@ -1,4 +1,5 @@
-Hi, I'm @TEjiri-Elma
-I'm interested in all that has to with software engineering
-Current an ALX Software Engineering student learning Unix, c, js and python
-You reach me tejire.elma@gmail.com
+Hi, I'm Tejiri Elma @Tejiri-ELma
+I'm currently an ALX Software Engineering Student
+Learning HTML, CSS, js and python
+Looking to learn new things
+I can be reached on tejire.elma@gmail.com
